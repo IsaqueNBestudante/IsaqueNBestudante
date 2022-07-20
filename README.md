@@ -1,6 +1,8 @@
- # About me :
+ ## About me :
 
-- 👋 Hi, I’m @IsaqueNBestudante
+ # Hello!
+
+- 👋 I’m @IsaqueNBestudante
 - 👀 I’m interested in program.
 - 🌱 I’m currently learning program.
 - 💞️ I’m looking to collaborate on future of world.
